@@ -9,7 +9,9 @@
     "dist"
   ],
   "dependencies": {
-    "email-addresses": "5.0.0"
+    "email-addresses": "5.0.0",
+    "pino": "9.3.2",
+    "pino-caller": "3.4.0"
   },
   "devDependencies": {
     "@plasmo/config": "workspace:*"
